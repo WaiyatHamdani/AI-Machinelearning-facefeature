@@ -7,7 +7,6 @@
 - [Features](#features)
 - [Technologies](#technologies)
 - [File Structure](#file-structure)
-- [License](#license)
 
 ## Project Description
 This project is focused on **AI and Machine Learning** for detecting and analyzing facial features. The project implements a facial recognition system that extracts features from images and performs various tasks related to face analysis.
@@ -23,9 +22,16 @@ To set up this project locally, follow the steps below:
     ```bash
     cd AI-Machinelearning-facefeature
     ```
-3. Install the required dependencies:
+3. Install the required dependencies to get started:
     ```bash
-    pip install -r requirements.txt
+    pip install numpy
+    pip install pandas
+    pip install scikit-learn
+    pip install tensorflow
+    pip install matplotlib
+    pip install opencv-python
+    pip install keras
+    pip install jupyterlab
     ```
 
 ## Usage
@@ -71,6 +77,3 @@ AI-Machinelearning-facefeature/
 └── README.md                  # Project documentation
 ```
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
