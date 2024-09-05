@@ -7,7 +7,6 @@
 - [Features](#features)
 - [Technologies](#technologies)
 - [File Structure](#file-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Description
@@ -72,8 +71,6 @@ AI-Machinelearning-facefeature/
 └── README.md                  # Project documentation
 ```
 
-## Contributing
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions of any kind are welcome!
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
